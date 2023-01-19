@@ -17,6 +17,8 @@ ul {
 
   border-radius: 4px;
 
+  border: 1px solid black;
+
   box-shadow: 0px 2.07544px 2.21381px rgba(46, 60, 80, 0.0196802),
     0px 4.98758px 5.32008px rgba(46, 60, 80, 0.0282725),
     0px 9.39116px 10.0172px rgba(46, 60, 80, 0.035),
@@ -27,6 +29,7 @@ ul {
 .avatar {
   width: 150px;
   border-radius: 50%;
+  border: 1px solid #000000;
 }
 
 .description {
